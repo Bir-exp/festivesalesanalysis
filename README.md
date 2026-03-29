@@ -1,2 +1,4 @@
 # festivesalesanalysis
-Festive Season Sales Data Analysis Project (Python)
+Analyzed Festive sales data to improve customer experience and sales
+
+
